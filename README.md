@@ -34,3 +34,7 @@ interrogation à chaque rappel, au cas où la connexion a été coupée (Doze, r
 ```
 (SDK Android 34, JDK 17.) L'APK de ce dépôt est signé avec une clé auto-signée :
 désinstallez-la avant d'installer une version recompilée avec une autre clé.
+
+## 📥 Téléchargement de l'APK
+- Fichier : **[apk/PiluleSync.apk](apk/PiluleSync.apk)** — à télécharger sur **chaque téléphone**
+- Ou directement : https://github.com/clem1256/pilule-app/raw/main/apk/PiluleSync.apk
